@@ -1,0 +1,3 @@
+- 👋 Hi, I’m MoonCat
+- 🌱 I’m currently learning Python
+- 😄 Pronouns: He/Him She/Her
